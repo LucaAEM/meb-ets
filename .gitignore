@@ -1,0 +1,31 @@
+# R session artifacts
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Local execution directories; curated reports belong under reports/
+MESE_v7_timing/
+MESE_v7_precision/
+MESE_v7_validation/
+MESE_v7_audit/
+MESE_v7_paper_results/
+MESE_v7_exports/
+MESE_EMPIRICAL_REVIEW_v2/
+MESE_EMPIRICAL_FINAL_AUDIT/
+MESE_EMPIRICAL_REPORTS/
+
+# Archives and temporary files
+*.tar.gz
+*.zip
+*.tmp
+*.bak
+
+# Local credentials
+.Renviron
+.env
+.env.*
+
+# Operating-system artifacts
+.DS_Store
+Thumbs.db
