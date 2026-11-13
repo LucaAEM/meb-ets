@@ -29,3 +29,6 @@ MESE_EMPIRICAL_REPORTS/
 # Operating-system artifacts
 .DS_Store
 Thumbs.db
+
+# New replication runs
+replication_runs/
