@@ -8,6 +8,7 @@ authors:
   - family-names: Biazzo
     given-names: Luca
 repository-code: "https://github.com/LucaAEM/meb-ets"
+license: MIT
 abstract: "Code and selected result summaries for maximum-entropy bootstrap ensembles of exponential smoothing models, including parameter aggregation, forecast aggregation, model selection and prediction intervals."
 keywords:
   - exponential smoothing
