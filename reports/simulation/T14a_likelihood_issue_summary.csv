@@ -1,0 +1,11 @@
+"case","issue","n_records","n_datasets","median_gap","maximum_gap"
+"BREAK","finite_nonaccepted_candidate_beats_selected",1,1,0.273634289213419,0.273634289213419
+"BREAK","parameter_refit_beats_corresponding_free_fit",50,50,0.0109773960980419,0.707809667786023
+"ETS_AAA","finite_nonaccepted_candidate_beats_selected",1,1,0.315559304687781,0.315559304687781
+"ETS_AAA","parameter_refit_beats_corresponding_free_fit",18,18,0.149172300843077,1.26917778872507
+"ETS_MAM","finite_nonaccepted_candidate_beats_selected",2,2,7.06192098797373,12.3016552487129
+"ETS_MAM","parameter_refit_beats_corresponding_free_fit",5,5,0.37256340419151,1.52937052182051
+"GARCH","finite_nonaccepted_candidate_beats_selected",1,1,0.354820269704192,0.354820269704192
+"GARCH","parameter_refit_beats_corresponding_free_fit",1,1,0.0389588567045394,0.0389588567045394
+"NONLINEAR","parameter_refit_beats_corresponding_free_fit",1,1,0.0475599850173012,0.0475599850173012
+"SWITCH","finite_nonaccepted_candidate_beats_selected",3,3,8.20391688517168,13.8638362919759

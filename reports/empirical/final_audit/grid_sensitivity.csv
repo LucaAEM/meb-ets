@@ -1,0 +1,4 @@
+"series_id","origin","audit_status","error","n_issue_records","saved_common_model","recomputed_common_before","recomputed_common_after","saved_choice_reproduced","common_choice_changes","margin_best_second_before","margin_best_second_after","n_replica_choices_changed"
+"m14",1,"hypothetical_sensitivity_completed","",1,"MAM","MAM","MAM",TRUE,FALSE,8.13893392062528,8.13893392062528,0
+"m365",1,"hypothetical_sensitivity_completed","",1,"MNM","MNM","MNM",TRUE,FALSE,2.51474474405404,2.51474474405404,0
+"m6",1,"hypothetical_sensitivity_completed","",11,"MAM","MAM","MAM",TRUE,FALSE,1.83885812603421,1.83885812603421,0

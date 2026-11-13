@@ -1,0 +1,5 @@
+"target","reference","n_joint_origins","agreement_exact","agreement_ETS_family"
+"MEB_common","ETS_standard",366,0.745901639344262,0.800546448087432
+"MEB_common","ETS_controlled",366,0.904371584699454,0.912568306010929
+"MESE_MEB_selection","ETS_standard",366,0.745901639344262,0.800546448087432
+"MESE_MEB_selection","ETS_controlled",366,0.904371584699454,0.912568306010929

@@ -1,0 +1,9 @@
+"method","interval_construction","S","matches_config"
+"ETS_standard","forecast_ETS_native_default",NA,TRUE
+"ETS_controlled","residual_plugin",20000,TRUE
+"Akaike_controlled","residual_mixture",20000,TRUE
+"MEB_original","residual_mixture",20000,TRUE
+"MESE_original","residual_plugin",20000,TRUE
+"MEB_common","residual_mixture",20000,TRUE
+"MESE_MEB_selection","residual_plugin",20000,TRUE
+"MEB_per_replica","residual_mixture",20000,TRUE

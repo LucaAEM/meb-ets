@@ -1,0 +1,10 @@
+"method","n_series_planned","n_origins_planned","n_eligible","n_ineligible","n_fit_success","n_not_run","n_fit_failed","n_interval_planned","n_interval_success","n_interval_not_successful_after_fit","n_numerical_flags","n_native_nonzero"
+"ETS_standard",366,366,366,0,366,0,0,366,366,0,0,301
+"ETS_controlled",366,366,366,0,366,0,0,366,366,0,0,0
+"Akaike_controlled",366,366,366,0,366,0,0,366,366,0,0,0
+"MEB_original",366,366,366,0,366,0,0,366,366,0,0,0
+"MESE_original",366,366,366,0,366,0,0,366,366,0,56,0
+"MEB_common",366,366,366,0,366,0,0,366,366,0,3,0
+"MESE_MEB_selection",366,366,366,0,366,0,0,366,366,0,67,0
+"MEB_per_replica",366,366,366,0,366,0,0,366,366,0,3,0
+"BaggedETS_original",366,366,366,0,366,0,0,0,0,0,0,0

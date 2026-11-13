@@ -1,0 +1,10 @@
+"method","interval_construction","S","is_native","matches_config"
+"ETS_standard","forecast_ETS_native_default",NA,TRUE,TRUE
+"ETS_controlled","residual_plugin",2000,FALSE,TRUE
+"Akaike_controlled","residual_mixture",2000,FALSE,TRUE
+"MEB_original","residual_mixture",2000,FALSE,TRUE
+"MESE_original","residual_plugin",2000,FALSE,TRUE
+"MEB_common","residual_mixture",2000,FALSE,TRUE
+"MEB_per_replica","residual_mixture",2000,FALSE,TRUE
+"MESE_MEB_selection","residual_plugin",2000,FALSE,TRUE
+"BLD_common_ablation","residual_mixture",2000,FALSE,TRUE
